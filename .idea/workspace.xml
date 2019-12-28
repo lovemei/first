@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af9d6352-8652-408e-bd90-b92fe76d78a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/first.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/xfw.go" afterDir="false" />
-    </list>
+    <list default="true" id="af9d6352-8652-408e-bd90-b92fe76d78a5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +9,13 @@
   </component>
   <component name="GOROOT" path="D:/develop/Go" />
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
@@ -43,6 +42,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
@@ -82,11 +82,19 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="我的练习用的GO语言程序" />
+    <option name="LAST_COMMIT_MESSAGE" value="我的练习用的GO语言程序" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="275" y="24" key="#GOPATH" timestamp="1577529398660">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="24" key="#GOPATH/0.0.1366.728@0.0.1366.728" timestamp="1577529398660" />
+    <state x="217" y="0" key="CommitChangelistDialog2" timestamp="1577532258958">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="217" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577532258958" />
     <state x="425" y="31" key="FileChooserDialogImpl" timestamp="1577531213045">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -95,6 +103,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577531203627" />
+    <state x="333" y="97" key="Vcs.Push.Dialog.v2" timestamp="1577533061878">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="333" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1577533061878" />
     <state x="409" y="62" width="626" height="666" key="find.popup" timestamp="1577531593084">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
