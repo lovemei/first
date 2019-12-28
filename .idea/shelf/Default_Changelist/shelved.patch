@@ -1,0 +1,17 @@
+Index: .gitignore
+===================================================================
+--- .gitignore	(revision 3cc9fe485648bf0ab32f5bd967d16c9e8b234729)
++++ .gitignore	(revision 3cc9fe485648bf0ab32f5bd967d16c9e8b234729)
+@@ -1,12 +0,0 @@
+-# Binaries for programs and plugins
+-*.exe
+-*.exe~
+-*.dll
+-*.so
+-*.dylib
+-
+-# Test binary, built with `go test -c`
+-*.test
+-
+-# Output of the go coverage tool, specifically when used with LiteIDE
+-*.out

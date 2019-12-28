@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af9d6352-8652-408e-bd90-b92fe76d78a5" name="Default Changelist" comment="">
+    <list default="true" id="af9d6352-8652-408e-bd90-b92fe76d78a5" name="Default Changelist" comment="Merge branch 'master' of https://gitee.com/sinorb/go&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +12,11 @@
   <component name="GOROOT" path="D:/develop/Go" />
   <component name="Git.Settings">
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
@@ -78,40 +83,80 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="我的练习用的GO语言程序" />
     <MESSAGE value="成功了" />
-    <option name="LAST_COMMIT_MESSAGE" value="成功了" />
+    <MESSAGE value="Merge branch 'master' of https://gitee.com/sinorb/go&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://gitee.com/sinorb/go&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit." />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="24" key="#GOPATH" timestamp="1577529398660">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="24" key="#GOPATH/0.0.1366.728@0.0.1366.728" timestamp="1577529398660" />
-    <state x="167" y="0" key="CommitChangelistDialog2" timestamp="1577538157884">
+    <state x="167" y="0" key="CommitChangelistDialog2" timestamp="1577543618662">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="167" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577538157884" />
-    <state x="187" y="52" key="DiffContextDialog" timestamp="1577538095788">
+    <state x="167" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577543618662" />
+    <state x="187" y="52" width="1092" height="582" key="DiffContextDialog" timestamp="1577543770501">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="187" y="52" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1577538095788" />
-    <state x="425" y="31" key="FileChooserDialogImpl" timestamp="1577537729591">
+    <state x="187" y="52" width="1092" height="582" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1577543770501" />
+    <state x="425" y="31" key="FileChooserDialogImpl" timestamp="1577543863138">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="425" y="31" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577537729591" />
+    <state x="425" y="31" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577543863138" />
+    <state width="661" height="174" key="GridCell.Tab.0.bottom" timestamp="1577542594015">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577542594015" />
+    <state width="661" height="174" key="GridCell.Tab.0.center" timestamp="1577542594015">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577542594015" />
+    <state width="661" height="174" key="GridCell.Tab.0.left" timestamp="1577542594015">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577542594015" />
+    <state width="661" height="174" key="GridCell.Tab.0.right" timestamp="1577542594015">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577542594015" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1577531203627">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577531203627" />
-    <state x="333" y="97" key="Vcs.Push.Dialog.v2" timestamp="1577538165104">
+    <state x="92" y="92" width="1182" height="544" key="ShowDiffWithBranchDialog" timestamp="1577542674623">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="333" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1577538165104" />
+    <state x="92" y="92" width="1182" height="544" key="ShowDiffWithBranchDialog/0.0.1366.728@0.0.1366.728" timestamp="1577542674623" />
+    <state x="333" y="97" key="Vcs.Push.Dialog.v2" timestamp="1577543665573">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="333" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1577543665573" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1577543598748">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1366.728@0.0.1366.728" timestamp="1577543598748" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1577533379133">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1577533379133" />
+    <state x="477" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577543597538">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="477" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1577543597538" />
     <state x="409" y="62" width="626" height="666" key="find.popup" timestamp="1577531593084">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
