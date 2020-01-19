@@ -3,36 +3,18 @@ package main
 import "fmt"
 
 func main() {
-	/*a, b := 1, "你？"
-	c, d := 3, 7
-	println(a, b, c, d)
+	var n1 int32 = 10
+	var n2 int64
+	var n3 int8
 
-	var s,sep string
-	for i :=1;i<len(os.Args);i++{
-		s+=sep +os.Args[i]
-		sep=" "
-	}
-	fmt.Println(s)
-	*/
-	/*x:=1
-	p:=&x
-	fmt.Println(p,*p)
-	*p=2
-	fmt.Println(x)*/
+	n2 = int64(n1) + 20
+	n3 = int8(n1 + 20)
+	fmt.Println("n2=", n2, "n3=", n3)
 
-	/*var x3, y3 int
-	fmt.Println(&x3 == &x3, &x3 == &y3, &x3 == nil)
-	*/
-	var p4 = f()
-	fmt.Println(p4, *p4)
-	x5 := 1
-	fmt.Println(padd(&x5))
-}
-func f() *int {
-	x4 := 1
-	return &x4
-}
-func padd(v *int) int {
-	*v++
-	return *v
+	var n4 int8
+	var n5 int8
+
+	n4 = int8(n1) + 127 //不提示报错
+	n5 = int8(n1 + 128) //这样才不报错
+	fmt.Println(n4, n5)
 }
