@@ -24,4 +24,6 @@ func main() {
 	var num1 int = 99
 	var num2 float64 = 23.456
 
+	fmt.Println(num1, num2)
+
 }
